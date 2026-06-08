@@ -232,13 +232,14 @@
             <mxPoint x="580" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gm_d_0rcCKVMNHzlhQij-46" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-13" target="gm_d_0rcCKVMNHzlhQij-11">
-          <mxGeometry width="60" relative="1" as="geometry">
+        <mxCell id="gm_d_0rcCKVMNHzlhQij-46" value="跳跃输入" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-13" target="gm_d_0rcCKVMNHzlhQij-11">
+          <mxGeometry x="-0.8569" y="5" width="60" relative="1" as="geometry">
             <mxPoint x="540" y="594.5" as="sourcePoint" />
             <mxPoint x="600" y="594.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="250" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
