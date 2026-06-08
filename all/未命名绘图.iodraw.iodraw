@@ -37,7 +37,7 @@
           <mxGeometry x="140" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gm_d_0rcCKVMNHzlhQij-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Idle&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="344" y="420" width="140" height="60" as="geometry" />
+          <mxGeometry x="335" y="400" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
