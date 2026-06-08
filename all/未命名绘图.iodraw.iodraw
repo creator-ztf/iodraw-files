@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gm_d_0rcCKVMNHzlhQij-38" value="动画结束" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-8" target="gm_d_0rcCKVMNHzlhQij-6">
+        <mxCell id="gm_d_0rcCKVMNHzlhQij-38" value="动画结束" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-8" target="gm_d_0rcCKVMNHzlhQij-6">
           <mxGeometry x="-0.2782" y="9" width="60" relative="1" as="geometry">
             <mxPoint y="289.5" as="sourcePoint" />
             <mxPoint x="60" y="289.5" as="targetPoint" />
