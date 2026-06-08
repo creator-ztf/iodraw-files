@@ -4,14 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gm_d_0rcCKVMNHzlhQij-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gm_d_0rcCKVMNHzlhQij-1" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="20" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
