@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gm_d_0rcCKVMNHzlhQij-23" value="落地" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-14" target="gm_d_0rcCKVMNHzlhQij-6">
-          <mxGeometry x="-0.0022" width="60" relative="1" as="geometry">
+          <mxGeometry x="0.3765" y="-10" width="60" relative="1" as="geometry">
             <mxPoint x="490" y="340" as="sourcePoint" />
             <mxPoint x="550" y="340" as="targetPoint" />
             <Array as="points">
@@ -166,6 +166,18 @@
               <mxPoint x="780" y="570" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm_d_0rcCKVMNHzlhQij-38" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="500" y="584" as="sourcePoint" />
+            <mxPoint x="560" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm_d_0rcCKVMNHzlhQij-39" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="720" y="620" as="sourcePoint" />
+            <mxPoint x="780" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
