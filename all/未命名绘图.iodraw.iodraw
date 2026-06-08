@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gm_d_0rcCKVMNHzlhQij-36" value="冲刺结束（空中）" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.867;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-9" target="gm_d_0rcCKVMNHzlhQij-7">
-          <mxGeometry x="-0.0302" y="-21" width="60" relative="1" as="geometry">
+          <mxGeometry x="0.212" y="-33" width="60" relative="1" as="geometry">
             <mxPoint x="700" y="600" as="sourcePoint" />
             <mxPoint x="760" y="600" as="targetPoint" />
             <mxPoint as="offset" />
