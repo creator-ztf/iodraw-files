@@ -43,10 +43,10 @@
             <mxPoint x="460" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gm_d_0rcCKVMNHzlhQij-18" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="gm_d_0rcCKVMNHzlhQij-18" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-6">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="580" y="80" as="sourcePoint" />
-            <mxPoint x="640" y="80" as="targetPoint" />
+            <mxPoint x="275" y="80" as="sourcePoint" />
+            <mxPoint x="335" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gm_d_0rcCKVMNHzlhQij-19" value="冲刺输入" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-6" target="gm_d_0rcCKVMNHzlhQij-9">
@@ -65,6 +65,12 @@
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="710" y="110" as="sourcePoint" />
             <mxPoint x="770" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm_d_0rcCKVMNHzlhQij-23" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="720" y="190" as="sourcePoint" />
+            <mxPoint x="780" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
