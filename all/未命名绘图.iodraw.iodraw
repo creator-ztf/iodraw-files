@@ -201,9 +201,6 @@
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="580" y="640" as="sourcePoint" />
             <mxPoint x="640" y="640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="610" y="640" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gm_d_0rcCKVMNHzlhQij-41" value="冲刺输入" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-7" target="gm_d_0rcCKVMNHzlhQij-9">
@@ -221,8 +218,8 @@
         </mxCell>
         <mxCell id="gm_d_0rcCKVMNHzlhQij-44" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="600" y="660" as="sourcePoint" />
-            <mxPoint x="660" y="660" as="targetPoint" />
+            <mxPoint x="260" y="259" as="sourcePoint" />
+            <mxPoint x="320" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
