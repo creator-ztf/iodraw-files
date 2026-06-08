@@ -216,7 +216,7 @@
             <mxPoint x="300" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gm_d_0rcCKVMNHzlhQij-44" value="离开墙壁" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.857;exitY=1.05;exitDx=0;exitDy=0;entryX=0.074;entryY=-0.072;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-13" target="gm_d_0rcCKVMNHzlhQij-9">
+        <mxCell id="gm_d_0rcCKVMNHzlhQij-44" value="离开墙壁" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.857;exitY=1.05;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="gm_d_0rcCKVMNHzlhQij-13" target="gm_d_0rcCKVMNHzlhQij-9">
           <mxGeometry x="0.3506" y="-7" width="60" relative="1" as="geometry">
             <mxPoint x="260" y="259" as="sourcePoint" />
             <mxPoint x="320" y="259" as="targetPoint" />
